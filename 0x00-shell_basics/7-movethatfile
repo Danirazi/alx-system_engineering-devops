@@ -1,2 +1,2 @@
 #!/bin/bash
-7-movethatfile
+rm /tmp/my_first_directory/betty
